@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fff427d7c80e63d448c0290bbc727eb6
+timeCreated: 1521283443
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cyberdyne
+  fontNames:
+  - Cyberdyne
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
